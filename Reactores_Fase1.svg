@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="793.7" height="1122.5" version="1.1" viewBox="0 0 793.7 1122.5" xmlns="http://www.w3.org/2000/svg">
+ <desc>Dibujo1.dxf - scale = 1.000000, origin = (0.000000, 0.000000), method = manual</desc>
+ <g>
+  <g fill="none" stroke-linecap="round">
+   <g>
+    <path d="m468.75 473.52v-89.113" stroke="#bec0c0" stroke-width=".9962"/>
+    <path d="m359.63 473.98h169.64" stroke="#bec0c0"/>
+    <path d="m529.52 101.69h-217.28" stroke="#bec1c1" stroke-width=".91479"/>
+   </g>
+   <g stroke="#bec0c0">
+    <path d="m313.91 101.52h-127.32"/>
+    <path d="m186.38 473.39h110.56" stroke-width="1.1628"/>
+    <path d="m297.06 384.35h-110.17" stroke-width="1.1598"/>
+    <path d="m186.81 287.98h110.26" stroke-width="1.1603"/>
+    <path d="m296.86 197.79h-109.96" stroke-width="1.1614"/>
+    <path d="m528.65 287.98h-167.87"/>
+    <path d="m529.14 194.75h-169.27" stroke-width="1.0205"/>
+    <path d="m468.27 384.31h-108.29" stroke-width="1.083"/>
+    <path d="m297.56 101.89v61.93" stroke-width="1.1"/>
+    <path d="m297.54 192.96v64.526" stroke-width="1.0648"/>
+    <path d="m297.24 285.44v65.164"/>
+    <path d="m297.22 378.9v63.946"/>
+   </g>
+   <path d="m297.19 470.83v2.4059" stroke="#c0bebe"/>
+   <g stroke="#bec0c0">
+    <path d="m359.5 377.79v9.0808" stroke-width="1.1849"/>
+    <path d="m359.33 102.44v61.619" stroke-width="1.0972"/>
+    <path d="m359.64 192.41v64.966"/>
+    <path d="m359.68 285.31v65.295"/>
+   </g>
+   <g>
+    <path d="m359.68 473.79v-58.718" stroke="#dfdede"/>
+    <path d="m529.71 102.28v61.863" stroke="#bec1c0"/>
+    <path d="m186.02 101.66v371.39" stroke="#bec0c0" stroke-width="1.007"/>
+   </g>
+   <path d="m529.84 191.8v0.49766" stroke="#7fffdf" stroke-width=".16828"/>
+   <g stroke="#bec0c0">
+    <path d="m529.92 192.58v64.801"/>
+    <path d="m529.84 286.35v64.202" stroke-width="1.0621"/>
+    <path d="m529.8 473.79v-58.718"/>
+    <path d="m529.97 387.76v-9.1699"/>
+   </g>
+  </g>
+  <g fill="#bfbfbf" stroke="#c0bfbe" stroke-miterlimit="0">
+   <ellipse cx="496.16" cy="134.59" rx="26.088" ry="26.82" style="paint-order:fill markers stroke">
+    <title>DGDGD</title>
+   </ellipse>
+   <ellipse cx="499.8" cy="226.49" rx="26.088" ry="26.82" style="paint-order:fill markers stroke"/>
+   <ellipse cx="391.22" cy="135.25" rx="26.088" ry="26.82" style="paint-order:fill markers stroke"/>
+   <ellipse cx="239.94" cy="143.66" rx="26.088" ry="26.82" style="paint-order:fill markers stroke"/>
+   <ellipse cx="239.07" cy="238.73" rx="26.088" ry="26.82" style="paint-order:fill markers stroke"/>
+   <ellipse cx="240.73" cy="327.7" rx="26.088" ry="26.82" style="paint-order:fill markers stroke"/>
+   <ellipse cx="239.52" cy="423.04" rx="26.088" ry="26.82" style="paint-order:fill markers stroke"/>
+   <ellipse cx="391.35" cy="226.83" rx="26.088" ry="26.82" style="paint-order:fill markers stroke"/>
+   <ellipse cx="393.86" cy="320.56" rx="26.088" ry="26.82" style="paint-order:fill markers stroke"/>
+   <ellipse cx="498.91" cy="321.32" rx="26.088" ry="26.82" style="paint-order:fill markers stroke"/>
+   <ellipse cx="448.38" cy="353.87" rx="26.088" ry="26.82" style="paint-order:fill markers stroke"/>
+   <ellipse cx="499.56" cy="443.94" rx="26.088" ry="26.82" style="paint-order:fill markers stroke"/>
+   <ellipse cx="387.71" cy="444.36" rx="26.088" ry="26.82" style="paint-order:fill markers stroke"/>
+   <ellipse cx="441.38" cy="444.83" rx="26.088" ry="26.82" style="paint-order:fill markers stroke"/>
+  </g>
+  <g fill="#df495e" font-family="sans-serif" font-size="15.794px" font-weight="bold" stroke="#000000" stroke-miterlimit="0" stroke-width=".29603">
+   <text transform="scale(.88536 1.1295)" x="549.79877" y="108.9433" style="paint-order:fill markers stroke" xml:space="preserve"><tspan x="549.79877" y="108.9433">R3</tspan><tspan x="549.79877" y="128.68579"/><tspan x="549.79877" y="148.4283"/></text>
+   <text transform="scale(.88536 1.1295)" x="552.96875" y="191.3627" style="paint-order:fill markers stroke" xml:space="preserve"><tspan x="552.96875" y="191.3627">R6</tspan><tspan x="552.96875" y="211.10519"/><tspan x="552.96875" y="230.8477"/></text>
+   <text transform="scale(.88536 1.1295)" x="554.13708" y="275.05063" style="paint-order:fill markers stroke" xml:space="preserve"><tspan x="554.13708" y="275.05063">R9</tspan><tspan x="554.13708" y="294.79312"/><tspan x="554.13708" y="314.53561"/></text>
+   <text transform="scale(.88536 1.1295)" x="489.44827" y="305.56952" style="paint-order:fill markers stroke" xml:space="preserve"><tspan x="489.44827" y="305.56952">R14</tspan><tspan x="489.44827" y="325.31201"/><tspan x="489.44827" y="345.0545"/></text>
+   <text transform="scale(.88536 1.1295)" x="548.01953" y="384.95801" style="paint-order:fill markers stroke" xml:space="preserve"><tspan x="548.01953" y="384.95801">R13</tspan><tspan x="548.01953" y="404.7005"/><tspan x="548.01953" y="424.44299"/></text>
+   <text transform="scale(.88536 1.1295)" x="482.55621" y="386.11481" style="paint-order:fill markers stroke" xml:space="preserve"><tspan x="482.55621" y="386.11481">R12</tspan><tspan x="482.55621" y="405.8573"/><tspan x="482.55621" y="425.59979"/></text>
+   <text transform="scale(.88536 1.1295)" x="420.97861" y="386.34375" style="paint-order:fill markers stroke" xml:space="preserve"><tspan x="420.97861" y="386.34375">R11</tspan><tspan x="420.97861" y="406.08624"/><tspan x="420.97861" y="425.82874"/></text>
+   <text transform="scale(.88536 1.1295)" x="434.06894" y="275.46854" style="paint-order:fill markers stroke" xml:space="preserve"><tspan x="434.06894" y="275.46854">R8</tspan><tspan x="434.06894" y="295.21103"/><tspan x="434.06894" y="314.95352"/></text>
+   <text transform="scale(.88536 1.1295)" x="430.71936" y="192.47333" style="paint-order:fill markers stroke" xml:space="preserve"><tspan x="430.71936" y="192.47333">R5</tspan><tspan x="430.71936" y="212.21582"/><tspan x="430.71936" y="231.95833"/></text>
+   <text transform="scale(.88536 1.1295)" x="430.56387" y="110.89127" style="paint-order:fill markers stroke" xml:space="preserve"><tspan x="430.56387" y="110.89127">R2</tspan><tspan x="430.56387" y="130.63377"/><tspan x="430.56387" y="150.37627"/></text>
+   <text transform="scale(.88536 1.1295)" x="260.59869" y="118.5382" style="paint-order:fill markers stroke" xml:space="preserve"><tspan x="260.59869" y="118.5382">R1</tspan><tspan x="260.59869" y="138.2807"/><tspan x="260.59869" y="158.02319"/></text>
+   <text transform="scale(.88536 1.1295)" x="260.19818" y="202.54109" style="paint-order:fill markers stroke" xml:space="preserve"><tspan x="260.19818" y="202.54109">R4</tspan><tspan x="260.19818" y="222.28358"/><tspan x="260.19818" y="242.02609"/></text>
+   <text transform="scale(.88536 1.1295)" x="259.02982" y="281.58182" style="paint-order:fill markers stroke" xml:space="preserve"><tspan x="259.02982" y="281.58182">R7</tspan><tspan x="259.02982" y="301.32431"/><tspan x="259.02982" y="321.0668"/></text>
+   <text transform="scale(.88536 1.1295)" x="254.39526" y="367.1257" style="paint-order:fill markers stroke" xml:space="preserve"><tspan x="254.39526" y="367.1257">R10</tspan><tspan x="254.39526" y="386.86819"/><tspan x="254.39526" y="406.61069"/></text>
+  </g>
+ </g>
+ <g fill="none" stroke="#997200" stroke-linecap="round">
+  <path d="m-252.28 520.35a0.03781 0.017186-27 0 0-0.020849 0.020531"/>
+  <path d="m-252.3 520.39a0.03781 0.017186-27 0 0 0.02975-0.004263"/>
+  <path d="m-252.79 519.86a0.03781 0.017186-63 0 0-0.0048 0.028865"/>
+  <path d="m-252.78 519.9a0.03781 0.017186-63 0 0 0.021563-0.020936"/>
+  <path d="m-253.12 521.97a0.03781 0.017186 81 0 0-0.005139 0.029612"/>
+  <path d="m-254.4 520.72a0.03781 0.017186-171 0 0 0.028935-0.004355"/>
+  <path d="m-252.17 521.04a0.03781 0.017186 9 0 0-0.028935 0.004355"/>
+  <path d="m-252.2 521.06a0.03781 0.017186 9 0 0 0.026574 0.014038"/>
+  <path d="m-252.67 520.66a0.027498 0.013749 45 0 0 0.038888 0.038888"/>
+  <path d="m-252.47 521.67a0.03781 0.017186 45 0 0-0.025969-0.013484"/>
+  <path d="m-252.51 521.66a0.03781 0.017186 45 0 0 0.013248 0.026977"/>
+  <path d="m-253.09 521.99a0.03781 0.017186 81 0 0-0.013083-0.026173"/>
+  <path d="m-253.48 519.77a0.03781 0.017186-99 0 0 0.013084 0.026173"/>
+  <path d="m-253.45 519.79a0.03781 0.017186-99 0 0 0.005139-0.029612"/>
+  <path d="m-254.37 520.7a0.03781 0.017186-171 0 0-0.026574-0.014038"/>
+  <path d="m-254.06 520.1a0.03781 0.017186-135 0 0-0.013248-0.026976"/>
+  <path d="m-254.09 520.09a0.03781 0.017186-135 0 0 0.025969 0.013484"/>
+  <path d="m-253.78 521.89a0.03781 0.017186 117 0 0 0.004799-0.028864"/>
+  <path d="m-253.79 521.86a0.03781 0.017186 117 0 0-0.021563 0.020935"/>
+  <path d="m-254.28 521.41a0.03781 0.017186 153 0 0 0.020849-0.020531"/>
+  <path d="m-254.27 521.37a0.03781 0.017186 153 0 0-0.02975 0.004263"/>
+  <path d="m-225.99 568.83a0.031193 0.014179 153 0 0 0.0172-0.016938"/>
+  <path d="m-225.98 568.8a0.031193 0.014179 153 0 0-0.024544 0.003516"/>
+  <path d="m-225.58 569.23a0.031193 0.014179 117 0 0 0.003959-0.023813"/>
+  <path d="m-225.59 569.2a0.031193 0.014179 117 0 0-0.01779 0.017272"/>
+  <path d="m-225.3 567.49a0.031193 0.014179-99 0 0 0.004239-0.024429"/>
+  <path d="m-224.24 568.52a0.031193 0.014179 9 0 0-0.023871 0.003593"/>
+  <path d="m-226.09 568.26a0.031193 0.014179-171 0 0 0.023872-0.003593"/>
+  <path d="m-226.06 568.24a0.031193 0.014179-171 0 0-0.021924-0.011581"/>
+  <path d="m-225.67 568.57a0.022686 0.011343-135 0 0-0.032083-0.032083"/>
+  <path d="m-225.84 567.74a0.031193 0.014179-135 0 0 0.021425 0.011125"/>
+  <path d="m-225.81 567.74a0.031193 0.014179-135 0 0-0.01093-0.022255"/>
+  <path d="m-225.33 567.47a0.031193 0.014179-99 0 0 0.010794 0.021593"/>
+  <path d="m-225.01 569.31a0.031193 0.014179 81 0 0-0.010794-0.021592"/>
+  <path d="m-225.03 569.29a0.031193 0.014179 81 0 0-0.00424 0.024429"/>
+  <path d="m-224.27 568.54a0.031193 0.014179 9 0 0 0.021924 0.011581"/>
+  <path d="m-224.53 569.04a0.031193 0.014179 45 0 0 0.010929 0.022256"/>
+  <path d="m-224.5 569.04a0.031193 0.014179 45 0 0-0.021424-0.011125"/>
+  <path d="m-224.76 567.55a0.031193 0.014179-63 0 0-0.00396 0.023813"/>
+  <path d="m-224.75 567.58a0.031193 0.014179-63 0 0 0.017789-0.017272"/>
+  <path d="m-224.34 567.96a0.031193 0.014179-27 0 0-0.017201 0.016938"/>
+  <path d="m-224.36 567.98a0.031193 0.014179-27 0 0 0.024544-0.003517"/>
+  <path d="m-234.9 568.89a0.022686 0.011343 135 0 0-0.032083 0.032083"/>
+  <path d="m-226.74 541.81a0.027498 0.013749-45 0 0 0.038889-0.038889"/>
+  <path d="m-221.51 535.87a1.2026 1.2026 94.959 0 0-0.0012-1.7008"/>
+  <path d="m-239.22 573.79a0.99218 0.99218-85.041 0 0 9.9e-4 1.4031"/>
+  <path d="m-189.18 520.61a0.027498 0.013749-45 0 0 0.038888-0.038889"/>
+  <path d="m-189.18 500.39a0.027498 0.013749-45 0 0 0.038888-0.038888"/>
+  <path d="m-189.18 542a0.027498 0.013749-45 0 0 0.038888-0.038888"/>
+  <path d="m-253.06 567.91a0.027498 0.013749 135 0 0-0.038889 0.038888"/>
+  <path d="m-252.28 541.89a0.03781 0.017186-27 0 0-0.020849 0.020531"/>
+  <path d="m-252.3 541.93a0.03781 0.017186-27 0 0 0.02975-0.004263"/>
+  <path d="m-252.79 541.41a0.03781 0.017186-63 0 0-0.0048 0.028865"/>
+  <path d="m-252.78 541.44a0.03781 0.017186-63 0 0 0.021563-0.020935"/>
+  <path d="m-253.12 543.51a0.03781 0.017186 81 0 0-0.005139 0.029612"/>
+  <path d="m-254.4 542.26a0.03781 0.017186-171 0 0 0.028935-0.004356"/>
+  <path d="m-252.17 542.58a0.03781 0.017186 9 0 0-0.028935 0.004355"/>
+  <path d="m-252.2 542.6a0.03781 0.017186 9 0 0 0.026574 0.014038"/>
+  <path d="m-252.67 542.2a0.027498 0.013749 45 0 0 0.038888 0.038888"/>
+  <path d="m-252.47 543.21a0.03781 0.017186 45 0 0-0.025969-0.013484"/>
+  <path d="m-252.51 543.21a0.03781 0.017186 45 0 0 0.013248 0.026976"/>
+  <path d="m-253.09 543.54a0.03781 0.017186 81 0 0-0.013083-0.026173"/>
+  <path d="m-253.48 541.31a0.03781 0.017186-99 0 0 0.013084 0.026173"/>
+  <path d="m-253.45 541.33a0.03781 0.017186-99 0 0 0.005139-0.029611"/>
+  <path d="m-254.37 542.24a0.03781 0.017186-171 0 0-0.026574-0.014038"/>
+  <path d="m-254.06 541.64a0.03781 0.017186-135 0 0-0.013248-0.026977"/>
+  <path d="m-254.09 541.64a0.03781 0.017186-135 0 0 0.025969 0.013484"/>
+  <path d="m-253.78 543.44a0.03781 0.017186 117 0 0 0.004799-0.028865"/>
+  <path d="m-253.79 543.4a0.03781 0.017186 117 0 0-0.021563 0.020936"/>
+  <path d="m-254.28 542.95a0.03781 0.017186 153 0 0 0.020849-0.020531"/>
+  <path d="m-254.27 542.92a0.03781 0.017186 153 0 0-0.02975 0.004263"/>
+  <path d="m-226.74 520.27a0.027498 0.013749-45 0 0 0.038889-0.038888"/>
+  <path d="m-221.51 514.33a1.2026 1.2026 94.959 0 0-0.0012-1.7008"/>
+  <path d="m-226.74 500.01a0.027498 0.013749-45 0 0 0.038889-0.038888"/>
+  <path d="m-257.35 500.01a0.027498 0.013749-45 0 0 0.038889-0.038888"/>
+  <path d="m-189.25 563.55a0.027498 0.013749-45 0 0 0.038889-0.038889"/>
+ </g>
+ <g>
+  <path d="m529.84 257.39v0.73567" fill="none" stroke="#ff3f00" stroke-linecap="round" stroke-width=".16828"/>
+  <g fill="#bfbfbf" stroke="#c0bfbe" stroke-miterlimit="0">
+   <rect x="529.77" y="165.06" width="2.625" height="26.688" style="paint-order:fill markers stroke"/>
+   <rect x="529.98" y="258.56" width="2.625" height="26.688" style="paint-order:fill markers stroke"/>
+   <rect x="529.79" y="351.21" width="2.625" height="26.688" style="paint-order:fill markers stroke"/>
+   <rect x="529.9" y="388.46" width="2.625" height="26.688" style="paint-order:fill markers stroke"/>
+   <rect x="356.94" y="350.47" width="2.625" height="26.688" style="paint-order:fill markers stroke"/>
+   <rect x="357.04" y="387.36" width="2.625" height="26.688" style="paint-order:fill markers stroke"/>
+   <rect x="356.87" y="258.28" width="2.625" height="26.688" style="paint-order:fill markers stroke"/>
+   <rect x="356.72" y="164.82" width="2.625" height="26.688" style="paint-order:fill markers stroke"/>
+   <rect x="297.28" y="165.11" width="2.625" height="26.688" style="paint-order:fill markers stroke"/>
+   <rect x="297.62" y="258.21" width="2.625" height="26.688" style="paint-order:fill markers stroke"/>
+   <rect x="297.28" y="351.45" width="2.625" height="26.688" style="paint-order:fill markers stroke"/>
+   <rect x="297.48" y="443.31" width="2.625" height="26.688" style="paint-order:fill markers stroke"/>
+  </g>
+ </g>
+</svg>
