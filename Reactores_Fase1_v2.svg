@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="793.7" height="1122.5" version="1.1" viewBox="0 0 793.7 1122.5" xmlns="http://www.w3.org/2000/svg">
+ <desc>Dibujo1.dxf - scale = 1.000000, origin = (0.000000, 0.000000), method = manual</desc>
+ <g>
+  <g fill="none" stroke-linecap="round">
+   <g>
+    <path d="m508.08 470.66v-89.113" stroke="#bec0c0" stroke-width=".9962"/>
+    <path d="m398.96 471.12h169.64" stroke="#bec0c0"/>
+    <path d="m568.85 98.834h-217.28" stroke="#bec1c1" stroke-width=".91479"/>
+   </g>
+   <g stroke="#bec0c0">
+    <path d="m353.24 98.661h-127.32"/>
+    <path d="m225.71 470.53h110.56" stroke-width="1.1628"/>
+    <path d="m336.4 381.49h-110.17" stroke-width="1.1598"/>
+    <path d="m226.14 285.12h110.26" stroke-width="1.1603"/>
+    <path d="m336.19 194.93h-109.96" stroke-width="1.1614"/>
+    <path d="m567.98 285.12h-167.87"/>
+    <path d="m568.47 191.89h-169.27" stroke-width="1.0205"/>
+    <path d="m507.6 381.45h-108.29" stroke-width="1.083"/>
+    <path d="m336.89 99.029v61.93" stroke-width="1.1"/>
+    <path d="m336.87 190.1v64.526" stroke-width="1.0648"/>
+    <path d="m336.58 282.58v65.164"/>
+    <path d="m336.55 376.04v63.946"/>
+   </g>
+   <path d="m336.52 467.97v2.4059" stroke="#c0bebe"/>
+   <g stroke="#bec0c0">
+    <path d="m398.83 374.93v9.0808" stroke-width="1.1849"/>
+    <path d="m398.66 99.577v61.619" stroke-width="1.0972"/>
+    <path d="m398.97 189.55v64.966"/>
+    <path d="m399.01 282.45v65.295"/>
+   </g>
+   <g>
+    <path d="m399.01 470.93v-58.718" stroke="#dfdede"/>
+    <path d="m569.05 99.416v61.863" stroke="#bec1c0"/>
+    <path d="m225.35 98.799v371.39" stroke="#bec0c0" stroke-width="1.007"/>
+   </g>
+   <path d="m569.17 188.94v0.49766" stroke="#7fffdf" stroke-width=".16828"/>
+   <g stroke="#bec0c0">
+    <path d="m569.25 189.71v64.801"/>
+    <path d="m569.17 283.49v64.202" stroke-width="1.0621"/>
+    <path d="m569.13 470.93v-58.718"/>
+    <path d="m569.3 384.9v-9.1699"/>
+   </g>
+  </g>
+  <g fill="#bfbfbf" stroke="#c0bfbe" stroke-miterlimit="0">
+   <ellipse cx="535.49" cy="131.72" rx="26.088" ry="26.82" style="paint-order:fill markers stroke">
+    <title>DGDGD</title>
+   </ellipse>
+   <ellipse cx="539.13" cy="223.63" rx="26.088" ry="26.82" style="paint-order:fill markers stroke"/>
+   <ellipse cx="430.55" cy="132.38" rx="26.088" ry="26.82" style="paint-order:fill markers stroke"/>
+   <ellipse cx="279.27" cy="140.8" rx="26.088" ry="26.82" style="paint-order:fill markers stroke"/>
+   <ellipse cx="278.4" cy="235.87" rx="26.088" ry="26.82" style="paint-order:fill markers stroke"/>
+   <ellipse cx="280.06" cy="324.84" rx="26.088" ry="26.82" style="paint-order:fill markers stroke"/>
+   <ellipse cx="278.85" cy="420.18" rx="26.088" ry="26.82" style="paint-order:fill markers stroke"/>
+   <ellipse cx="430.68" cy="223.97" rx="26.088" ry="26.82" style="paint-order:fill markers stroke"/>
+   <ellipse cx="433.19" cy="317.7" rx="26.088" ry="26.82" style="paint-order:fill markers stroke"/>
+   <ellipse cx="538.24" cy="318.46" rx="26.088" ry="26.82" style="paint-order:fill markers stroke"/>
+   <ellipse cx="487.72" cy="351.01" rx="26.088" ry="26.82" style="paint-order:fill markers stroke"/>
+   <ellipse cx="538.9" cy="441.08" rx="26.088" ry="26.82" style="paint-order:fill markers stroke"/>
+   <ellipse cx="427.04" cy="441.5" rx="26.088" ry="26.82" style="paint-order:fill markers stroke"/>
+   <ellipse cx="480.71" cy="441.97" rx="26.088" ry="26.82" style="paint-order:fill markers stroke"/>
+  </g>
+  <g fill="#df495e" font-family="sans-serif" font-size="15.794px" font-weight="bold" stroke="#000000" stroke-miterlimit="0" stroke-width=".29603">
+   <text transform="scale(.88536 1.1295)" x="594.22406" y="106.41071" style="paint-order:fill markers stroke" xml:space="preserve"><tspan x="594.22406" y="106.41071">R3</tspan><tspan x="594.22406" y="126.15321"/><tspan x="594.22406" y="145.89571"/></text>
+   <text transform="scale(.88536 1.1295)" x="597.39404" y="188.83012" style="paint-order:fill markers stroke" xml:space="preserve"><tspan x="597.39404" y="188.83012">R6</tspan><tspan x="597.39404" y="208.57262"/><tspan x="597.39404" y="228.31512"/></text>
+   <text transform="scale(.88536 1.1295)" x="598.56238" y="272.51804" style="paint-order:fill markers stroke" xml:space="preserve"><tspan x="598.56238" y="272.51804">R9</tspan><tspan x="598.56238" y="292.26053"/><tspan x="598.56238" y="312.00302"/></text>
+   <text transform="scale(.88536 1.1295)" x="533.87354" y="303.03693" style="paint-order:fill markers stroke" xml:space="preserve"><tspan x="533.87354" y="303.03693">R14</tspan><tspan x="533.87354" y="322.77942"/><tspan x="533.87354" y="342.52191"/></text>
+   <text transform="scale(.88536 1.1295)" x="592.44482" y="382.42542" style="paint-order:fill markers stroke" xml:space="preserve"><tspan x="592.44482" y="382.42542">R13</tspan><tspan x="592.44482" y="402.16791"/><tspan x="592.44482" y="421.9104"/></text>
+   <text transform="scale(.88536 1.1295)" x="526.98151" y="383.58221" style="paint-order:fill markers stroke" xml:space="preserve"><tspan x="526.98151" y="383.58221">R12</tspan><tspan x="526.98151" y="403.32471"/><tspan x="526.98151" y="423.0672"/></text>
+   <text transform="scale(.88536 1.1295)" x="465.40387" y="383.81116" style="paint-order:fill markers stroke" xml:space="preserve"><tspan x="465.40387" y="383.81116">R11</tspan><tspan x="465.40387" y="403.55365"/><tspan x="465.40387" y="423.29614"/></text>
+   <text transform="scale(.88536 1.1295)" x="478.4942" y="272.93594" style="paint-order:fill markers stroke" xml:space="preserve"><tspan x="478.4942" y="272.93594">R8</tspan><tspan x="478.4942" y="292.67844"/><tspan x="478.4942" y="312.42093"/></text>
+   <text transform="scale(.88536 1.1295)" x="475.14462" y="189.94075" style="paint-order:fill markers stroke" xml:space="preserve"><tspan x="475.14462" y="189.94075">R5</tspan><tspan x="475.14462" y="209.68324"/><tspan x="475.14462" y="229.42575"/></text>
+   <text transform="scale(.88536 1.1295)" x="474.98914" y="108.35869" style="paint-order:fill markers stroke" xml:space="preserve"><tspan x="474.98914" y="108.35869">R2</tspan><tspan x="474.98914" y="128.10118"/><tspan x="474.98914" y="147.84367"/></text>
+   <text transform="scale(.88536 1.1295)" x="305.02396" y="116.00562" style="paint-order:fill markers stroke" xml:space="preserve"><tspan x="305.02396" y="116.00562">R1</tspan><tspan x="305.02396" y="135.74811"/><tspan x="305.02396" y="155.4906"/></text>
+   <text transform="scale(.88536 1.1295)" x="304.62344" y="200.00851" style="paint-order:fill markers stroke" xml:space="preserve"><tspan x="304.62344" y="200.00851">R4</tspan><tspan x="304.62344" y="219.75101"/><tspan x="304.62344" y="239.49352"/></text>
+   <text transform="scale(.88536 1.1295)" x="303.45508" y="279.04922" style="paint-order:fill markers stroke" xml:space="preserve"><tspan x="303.45508" y="279.04922">R7</tspan><tspan x="303.45508" y="298.79172"/><tspan x="303.45508" y="318.53421"/></text>
+   <text transform="scale(.88536 1.1295)" x="298.82053" y="364.59311" style="paint-order:fill markers stroke" xml:space="preserve"><tspan x="298.82053" y="364.59311">R10</tspan><tspan x="298.82053" y="384.3356"/><tspan x="298.82053" y="404.07809"/></text>
+  </g>
+ </g>
+ <g fill="#bfbfbf" stroke="#c0bfbe" stroke-miterlimit="0">
+  <rect x="569.1" y="162.2" width="2.625" height="26.688" style="paint-order:fill markers stroke"/>
+  <rect x="569.32" y="255.7" width="2.625" height="26.688" style="paint-order:fill markers stroke"/>
+  <rect x="569.13" y="348.35" width="2.625" height="26.688" style="paint-order:fill markers stroke"/>
+  <rect x="569.23" y="385.6" width="2.625" height="26.688" style="paint-order:fill markers stroke"/>
+  <rect x="396.27" y="347.61" width="2.625" height="26.688" style="paint-order:fill markers stroke"/>
+  <rect x="396.37" y="384.5" width="2.625" height="26.688" style="paint-order:fill markers stroke"/>
+  <rect x="396.2" y="255.42" width="2.625" height="26.688" style="paint-order:fill markers stroke"/>
+  <rect x="396.05" y="161.96" width="2.625" height="26.688" style="paint-order:fill markers stroke"/>
+  <rect x="336.61" y="162.25" width="2.625" height="26.688" style="paint-order:fill markers stroke"/>
+  <rect x="336.95" y="255.35" width="2.625" height="26.688" style="paint-order:fill markers stroke"/>
+  <rect x="336.61" y="348.59" width="2.625" height="26.688" style="paint-order:fill markers stroke"/>
+  <rect x="336.81" y="440.45" width="2.625" height="26.688" style="paint-order:fill markers stroke"/>
+ </g>
+</svg>
